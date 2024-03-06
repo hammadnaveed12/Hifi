@@ -8,6 +8,7 @@ import Process from '../components/Process';
 import Branding from '../components/Branding';
 import GreatBrands from '../components/GreatBrands';
 import Projects from '../components/Projects';
+import Testimonials from '../components/Testimonials';
 
 function Home() {
  // const { darkMode } = useContext(DarkModeContext);
@@ -21,6 +22,7 @@ function Home() {
       <Branding />
       <GreatBrands />
       <Projects />
+      <Testimonials />
     </div>
   );
 }

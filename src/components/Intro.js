@@ -91,7 +91,6 @@ function Intro() {
       <LeftHalf>
         <Box>
           <hr style={{ width: "24px", height: "2px", background: "#82E8F2",marginLeft:'0px' }} />
-          
           <Heading>
             Reset Digital, your premier Toronto-based web consultancy firm.
           </Heading>
